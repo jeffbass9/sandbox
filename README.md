@@ -1,5 +1,5 @@
 # sandbox
-Quick boilerplate code for HTML/CSS projects. 
+Quick boilerplate code for HTML/CSS projects. Created as a quick resource for student web workers. 
 
 ## Steps to get up and running 
 
